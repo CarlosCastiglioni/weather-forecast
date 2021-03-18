@@ -1,5 +1,1 @@
 # Weather
-
-
-## Development server
-
